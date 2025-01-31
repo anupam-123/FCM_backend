@@ -1,0 +1,12 @@
+.env
+env
+./fir-auth-41b55-firebase-adminsdk-p6cud-cc179c8814.json
+fir-auth-41b55-firebase-adminsdk-p6cud-cc179c8814.json
+fir-auth-41b55-firebase-adminsdk-p6cud-cc179c8814
+
+./service-account-key.json
+service-account-key.json
+service-account-key
+
+__pycache__
+myenv
